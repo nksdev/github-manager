@@ -1,11 +1,10 @@
-Here's a comprehensive **README.md** for your Ultimate GitHub Repository Manager project.
 
-```markdown
+
 # 🚀 Ultimate GitHub Repository Manager
 
 A **professional, feature-rich desktop application** to manage your GitHub repositories with ease. Built with Python and Tkinter, it provides a modern dark UI, bulk operations, multi‑select checkboxes, directory uploads, cloning, CSV export, and more.
 
-![Screenshot Placeholder](https://via.placeholder.com/800x500?text=GitHub+Manager+UI)
+
 
 ---
 
