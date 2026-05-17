@@ -202,4 +202,4 @@ MIT License – use, modify, and distribute freely.
 If you find this tool useful, don’t forget to star the repository ⭐
 ```
 
-This README is ready to be saved as `README.md` in your project folder. It covers all features, installation, usage, troubleshooting, and contribution guidelines.
+
